@@ -1,0 +1,22 @@
+/*
+Theme Name:   Twenty Seventeen Child
+Description:  Twenty Seventeen Child Theme
+Author:       Mojtaba Varkesh
+Author URL:   varkesh.net
+Template:     twentyseventeen
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  twenty-seventeen-child
+*/
+
+.main-navigation li {
+	display: block;
+}
+.navigation-top {
+	left: 100%;
+	width: 20%;
+}
+.site-header .navigation-top .menu-scroll-down {
+	display: none;
+}
