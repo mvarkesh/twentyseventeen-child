@@ -1,0 +1,10 @@
+html[lang="fa-IR"] body,
+html[lang="fa-IR"] button,
+html[lang="fa-IR"] input,
+html[lang="fa-IR"] select,
+html[lang="fa-IR"] textarea {
+	font-family: 'b yekan regular';
+}
+.main-navigation ul {
+	text-align: right;
+}
